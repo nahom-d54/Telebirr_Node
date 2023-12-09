@@ -90,5 +90,6 @@ const decrypted_data = Telebirr.decrypt(public_key=public_key, payload=payload)
 
 Rough translation of https://github.com/eba-alemayehu/telebirr with node-js
 It might not work so open an issue or fix it your self and notify me
+<br>
 credit [eba-alemayehu](https://github.com/eba-alemayehu) for his python telebirr integraton [Python telebirr](https://github.com/eba-alemayehu/telebirr)
 
